@@ -1,6 +1,6 @@
 ## SDPT3 version 4.0 -- a MATLAB software for semidefinite-quadratic-linear programming
 
-### [Kim-Chuan Toh](www.math.nus.edu.sg/~mattohkc/index.html), [ Michael J. Todd](https://people.orie.cornell.edu/miketodd/todd.html),  [Reha H. Tutuncu](http://www.math.cmu.edu/users/reha/home.html)
+### [Kim-Chuan Toh](https://www.math.nus.edu.sg/~mattohkc/index.html), [ Michael J. Todd](https://people.orie.cornell.edu/miketodd/todd.html),  [Reha H. Tutuncu](http://www.math.cmu.edu/users/reha/home.html)
 
 The last major update on the software was in <font color = blue>Feb 2009</font>. It implemented an infeasible path-following algorithm (sqlp.m) for solving SQLP -- conic optimization problems involving semidefinite, second-order and linear cone constraints. It also has a path-following algorithm (HSDsqlp.m) for solving a 3-parameter homogeneous self-dual reformulation of SQLP. <font color=red>Note: though this software is fairly well tested, but minor refinement or fix may still be needed from time to time.</font>
 
