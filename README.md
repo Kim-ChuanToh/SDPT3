@@ -28,7 +28,7 @@ The last major update on the software was in <font color = blue>Feb 2009</font>.
 
   - Firstly, clone the package via
     ```github
-    git clone (The URL pending)
+    git clone https://github.com/Kim-ChuanToh/SDPT3.git
     ```
   - Run Matlab in the directory SDPT3-4.0 
   - In Matlab command window, type: 
