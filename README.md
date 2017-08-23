@@ -42,7 +42,7 @@ The last major update on the software was in <font color = blue>Feb 2009</font>.
     ```
   - <font color=blue>By now, SDPT3 is ready for you to use</font>.
 
-- **User's guide** ([PDF](http://www.math.nus.edu.sg/~mattohkc/sdpt3/guide4-0-draft.pdf))(Draft)
+- **User's guide** ([PDF](http://www.math.nus.edu.sg/~mattohkc/sdpt3/guide4-0-draft.pdf))
 
 -----
 
